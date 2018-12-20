@@ -10,4 +10,4 @@ https://adventofcode.com/2018
 
 Credits
 -------
-- [https://github.com/scienceetonnante|scienceetonnante] for "Game Of Life"
+- [scienceetonnante](https://github.com/scienceetonnante) for "Game Of Life"
