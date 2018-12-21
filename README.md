@@ -5,6 +5,7 @@ https://adventofcode.com/2018
 
 - Day 1: Chronal Calibration
 - Day 2: Inventory Management System
+- Day 3: No Matter How You Slice It
 - Day 18: Settlers of The North Pole
 
 
